@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Interpreter.AbstractExpression">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAECAAAAQAACAAAKAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpreter.ExcessSpace">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcessSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpreter.Interpreter">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAIAAAACAAAACAAAIAQAAEEAAAAAAAAA=</HashCode>
+      <FileName>Form1 .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpreter.HyphenDash">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="Interpreter.AbstractExpression" ManuallyRouted="true">
+      <Path>
+        <Point X="11" Y="3.349" />
+        <Point X="11" Y="3.576" />
+        <Point X="13.25" Y="3.576" />
+        <Point X="13.25" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HyphenDash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpreter.LineFeeds">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LineFeeds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpreter.ManySpace">
+    <Position X="14.25" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="Interpreter.AbstractExpression" ManuallyRouted="true">
+      <Path>
+        <Point X="11" Y="3.349" />
+        <Point X="11" Y="2.959" />
+        <Point X="12.042" Y="2.959" Type="JumpStart" />
+        <Point X="12.208" Y="2.959" Type="JumpEnd" />
+        <Point X="16.125" Y="2.959" />
+        <Point X="16.125" Y="3.883" />
+        <Point X="15.75" Y="3.883" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ManySpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpreter.Program">
+    <Position X="16.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpreter.Quote">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Quote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpreter.МanyTabs">
+    <Position X="16.5" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="Interpreter.AbstractExpression" ManuallyRouted="true">
+      <Path>
+        <Point X="11" Y="3.349" />
+        <Point X="11" Y="2.837" />
+        <Point X="12.042" Y="2.837" Type="JumpStart" />
+        <Point X="12.208" Y="2.837" Type="JumpEnd" />
+        <Point X="18.375" Y="2.837" />
+        <Point X="18.375" Y="3.883" />
+        <Point X="18" Y="3.883" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>МanyTabs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

@@ -1,0 +1,6 @@
+H:\l\lab5_code\bin\Debug\WindowsApplication.exe
+H:\l\lab5_code\bin\Debug\WindowsApplication.pdb
+H:\l\lab5_code\obj\x86\Debug\lab5.csprojAssemblyReference.cache
+H:\l\lab5_code\obj\x86\Debug\lab5.csproj.CoreCompileInputs.cache
+H:\l\lab5_code\obj\x86\Debug\WindowsApplication.exe
+H:\l\lab5_code\obj\x86\Debug\WindowsApplication.pdb

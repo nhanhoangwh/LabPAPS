@@ -1,0 +1,4 @@
+﻿  main.cpp
+H:\l\lab1_code\board.h(13,28): warning C4018: <: несоответствие типов со знаком и без знака
+H:\l\lab1_code\board.h(27,28): warning C4018: <=: несоответствие типов со знаком и без знака
+  lab1.vcxproj -> H:\l\lab1_code\Debug\lab1.exe

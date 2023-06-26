@@ -1,0 +1,2 @@
+H:\l\lab6_code\Debug\lab6.exe
+H:\l\lab6_code\Debug\lab6.pdb

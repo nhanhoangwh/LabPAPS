@@ -1,0 +1,3 @@
+﻿  main.cpp
+H:\l\lab6_code\IObserver.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  lab6.vcxproj -> H:\l\lab6_code\Debug\lab6.exe
